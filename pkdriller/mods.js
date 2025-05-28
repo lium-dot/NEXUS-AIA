@@ -70,7 +70,7 @@ const sleep =  (ms) =>{
   
           const sticker = new Sticker(buffer.data, {
             pack: nomAuteurMessage,
-            author: "pkdriller",
+            author: "bmbtech",
             type: StickerTypes.FULL,
             categories: ['🤩', '🎉'],
             id: '12345',
@@ -560,7 +560,7 @@ Link: ${url}
 
 To activate or modify the mention, follow this syntax: mention link type message
 The different types are audio, video, image, and sticker.
-Example: mention https://static.animecorner.me/2023/08/op2.jpg image Hi, my name is pkdriller
+Example: mention https://static.animecorner.me/2023/08/op2.jpg image Hi, my name is popkid
 
 To stop the mention, use mention stop`;
 

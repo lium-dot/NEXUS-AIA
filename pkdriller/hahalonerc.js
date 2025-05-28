@@ -19,7 +19,7 @@ zokou(
       await repondre("*Please wait... Generating pair code*");
 
       const encodedNumber = encodeURIComponent(arg.join(" "));
-      const apiUrl = `https://nexus-ai-pair.onrender.com/code?number=${encodedNumber}`;
+      const apiUrl = `https://nexus-qr-code-1-caxd.onrender.com/code?number=${encodedNumber}`;
       
       const response = await axios.get(apiUrl);
       const data = response.data;

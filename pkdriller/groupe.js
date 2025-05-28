@@ -37,7 +37,7 @@ zokou({ nomCom: "tagall", categorie: 'Group', reaction: "📣" }, async (dest, z
   tag +=`
   
 ╭─────────────────━┈⊷ 
-│⛔ NEXUS-AI 𝐓𝐀𝐆𝐒
+│⛔ *NEXUS AI TAGS*
 ╰─────────────────━┈⊷ \n
 │⭕ *Group* : ${nomGroupe} 
 │⭕ *Hey😀* : *${nomAuteurMessage}* 
@@ -78,7 +78,7 @@ zokou({ nomCom: "link", categorie: 'Group', reaction: "🙋" }, async (dest, zk,
 
   let mess = `hello ${nomAuteurMessage} , here is the group link for ${nomGroupe} \n
 
-Group link :${lien} \n\n©Nexus 𝐬𝐜𝐢𝐞𝐧𝐜𝐞`
+Group link :${lien} \n\n©NEXUS-AI 𝐬𝐜𝐢𝐞𝐧𝐜𝐞`
   repondre(mess)
 
 
@@ -666,7 +666,7 @@ zokou({nomCom:"hidetag",categorie:'Group',reaction:"🎤"},async(dest,zk,command
         let media  = await zk.downloadAndSaveMediaMessage(msgRepondu.stickerMessage)
 
         let stickerMess = new Sticker(media, {
-          pack: 'Nexus-ai',
+          pack: 'Redmi-XMD',
           type: StickerTypes.CROPPED,
           categories: ["🤩", "🎉"],
           id: "12345",
@@ -708,7 +708,7 @@ zokou({nomCom:"hidetag",categorie:'Group',reaction:"🎤"},async(dest,zk,command
 });
 
 
-zokou({ nomCom: "apk7", reaction: "✨", categorie: "Recherche" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "apk", reaction: "✨", categorie: "Recherche" }, async (dest, zk, commandeOptions) => {
   const { repondre, arg, ms } = commandeOptions;
 
   try {
@@ -732,7 +732,7 @@ zokou({ nomCom: "apk7", reaction: "✨", categorie: "Recherche" }, async (dest, 
 
     const downloadLink = appData.dllink;
     const captionText =
-      "『 *NEXUS-AI Application* 』\n\n*Name :* " + appData.name +
+      "『 *Redmi-XMD Application* 』\n\n*Name :* " + appData.name +
       "\n*Id :* " + appData["package"] +
       "\n*Last Update :* " + appData.lastup +
       "\n*Size :* " + appData.size +
