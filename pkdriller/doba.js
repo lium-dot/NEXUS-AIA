@@ -21,7 +21,7 @@ const getContextInfo = (title = '', userJid = '', thumbnailUrl = '') => ({
   },
   externalAdReply: {
     showAdAttribution: true,
-    title: conf.BOT || 'Queen-M',
+    title: conf.BOT || 'Nexus-ai',
     body: title || "Next Generation",
     thumbnailUrl: thumbnailUrl || conf.URL || '',
     sourceUrl: conf.GURL || '',
