@@ -9,7 +9,7 @@
 <!-- Banner Image -->
 <p align="center">
   <a href="https://files.catbox.moe/3u88n0.webp">
-    <img src="https://files.catbox.moe/5zs426.jpg" width="100%" height="auto">
+    <img src="https://files.catbox.moe/oqoib3.jpg" width="100%" height="auto">
   </a>
 </p>
 
@@ -32,7 +32,7 @@ Fork this repo and give it a ⭐ to support Pkdriller!
 
 ---
 
-### 🔌 Pairing Code / Session Generator
+### 💙 Pairing Code 💚 Session Generator💜
 
 [![Pair Code](https://img.shields.io/badge/Google-Pair%20Code-blue?style=for-the-badge&logo=Google)](https://nexus-ai-pairing-website.vercel.app/)
 
@@ -85,13 +85,6 @@ Fork this repo and give it a ⭐ to support Pkdriller!
 ---
 
  
-
-
-## Main Developer
-<a href="https://github.com/Pkdriller"><img src="https://github.com/Pkdriller.png" width="250" height="250" alt="XdKing2"/></a>
-  
- 
-<p align="center">
   
 [![JOIN WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://chat.whatsapp.com/CbY7YiuobJ1AlMJ8PviKpm)
 
